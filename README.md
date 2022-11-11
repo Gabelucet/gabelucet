@@ -5,6 +5,6 @@
 - Também estou estudando para ser um desenvolvedor Front-end
 <div align="center">
   <a href="https://github.com/Gabelucet">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=Gabelucet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabelucet&layout=compact&langs_count=7&theme=dark"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Gabelucet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabelucet&layout=compact&langs_count=7&theme=dark"/>
 </div>
