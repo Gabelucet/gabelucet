@@ -5,7 +5,7 @@
 - Também estou estudando para ser um Eng. Front-end
 - Conhecimentos adquiridos:
 - Lógica de Programação
-- HTML - Avançado
+- HTML - intermediário
 - CSS - Básico
  <div>
   <a href="https://github.com/gabelucet">
