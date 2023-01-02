@@ -10,6 +10,6 @@
 - Git
  <div style = "inline">
   <a href="https://github.com/gabelucet">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=gabelucet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabelucet&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=gabelucet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabelucet&layout=compact&langs_count=7&theme=dark"/>
 </div>
